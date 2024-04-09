@@ -1,4 +1,5 @@
 ### Hi there 👋
+hello im damao, learning rust go java python c now...
 <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=MBDAMAO" /> </div>
 <!--
 **MBDAMAO/MBDAMAO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
