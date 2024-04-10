@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to my github
 hello im damao, learning rust go java python c now...
 <div align="center">
 <span>  </span>
