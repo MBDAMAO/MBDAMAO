@@ -2,7 +2,7 @@
 hello im damao, learning rust go java python c now...
 <div align="center">
 <span>  </span>
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=Achuan-2" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achuan-2&layout=compact&langs_count=8" />
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=MBDAMAO" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MBDAMAO&layout=compact&langs_count=8" />
 <span>  </span>
 </div>
 <!--
