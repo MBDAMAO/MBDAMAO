@@ -1,6 +1,6 @@
 ### Welcome to my github 
 Hello! I'm damao, a full stack developer, learning rust go java python and c now...
-<div align-content="center">
+<div align="center">
     <img height="170px" src="https://github-readme-stats.vercel.app/api?username=MBDAMAO" />
     <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MBDAMAO&layout=compact&langs_count=8" />
 </div>
