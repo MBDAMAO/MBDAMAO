@@ -1,6 +1,4 @@
-### Welcome to my github<p>
-  <a title="Hits" target="_blank" href="https://github.com/MBDAMAO/MBDAMAO"><img src="https://hits.b3log.org/MBDAMAO/MBDAMAO.svg" ></a>
-</p>
+### Welcome to my github <a title="Hits" target="_blank" href="https://github.com/MBDAMAO/MBDAMAO"><img src="https://hits.b3log.org/MBDAMAO/MBDAMAO.svg" ></a>
 Hello! I'm damao, a full stack developer, learning rust go java python and c now...
 <div align="center">
 <span>  </span>
