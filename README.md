@@ -1,8 +1,7 @@
-### Welcome to my github
-Hello! I'm damao, a full stack developer, learning rust go java python and c now...
-<p align="center">
+### Welcome to my github<p>
   <a title="Hits" target="_blank" href="https://github.com/MBDAMAO/MBDAMAO"><img src="https://hits.b3log.org/MBDAMAO/MBDAMAO.svg" ></a>
 </p>
+Hello! I'm damao, a full stack developer, learning rust go java python and c now...
 <div align="center">
 <span>  </span>
 <img height="170px" src="https://github-readme-stats.vercel.app/api?username=MBDAMAO" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MBDAMAO&layout=compact&langs_count=8" />
