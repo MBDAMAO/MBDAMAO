@@ -1,6 +1,6 @@
 ### Welcome to my github 
 Hello! I'm damao, a full stack developer, learning rust go java python and c now...
-<div style="display: flex; justify-content: space-between; flex-direction: row;" width="100%">
+<div style="display: flex; justify-content: space-between; flex-direction: row; width: 100%;">
   <div height="170px" width="50%">
     <img height="170px" src="https://github-readme-stats.vercel.app/api?username=MBDAMAO" />
   </div>
