@@ -1,5 +1,5 @@
 ### Welcome to my github 
-Hello! I'm damao, a full stack developer, learning rust go java python and c now...
+Hello! I'm damao, a fullstack developer, learning rust go java python and c now...
 <div align="center">
     <span></span>
     <img height="170px" src="https://github-readme-stats.vercel.app/api?username=MBDAMAO" />
