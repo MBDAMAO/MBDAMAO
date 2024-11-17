@@ -1,9 +1,13 @@
 ### Welcome to my github 
 Hello!😄 I'm damao...
+
+<!--
 <div align="center">
     <img height="170px" src="https://github-readme-stats.vercel.app/api?username=MBDAMAO" />
     <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MBDAMAO&layout=compact&langs_count=8" />
 </div>
+-->
+
 <!--
 **MBDAMAO/MBDAMAO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
